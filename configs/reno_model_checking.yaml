@@ -31,7 +31,7 @@ model_parameters:
 
 # --------------------------------------------------
 experiment_parameters:
-  pox_directory: [/home/simon/prog/pox, /home/simonsch/pox/]
+  pox_directory: [/home/ubuntu/pox/]
   base_config: mininet_experiments/base_config.yaml
   runs: 1
 
